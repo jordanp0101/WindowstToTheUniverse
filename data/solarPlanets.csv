@@ -1,0 +1,17 @@
+,diameter (Earth=1),diameter (km),mass (Earth=1),mean distance from Sun (AU),orbital period (Earth years),orbital eccentricity,mean orbital velocity (km/sec),rotation period (in Earth days),inclination of axis (degrees),mean temperature at surface (C),gravity at equator (Earth=1),escape velocity (km/sec),mean density (water=1),atmospheric composition,number of moons,rings?
+Mercury,0.382,"4,878",0.055,0.39,0.24,0.2056,47.89,58.65,0.0,-180 to 430,0.38,4.25,5.43,none,"
+",no
+Venus,0.949,"12,104",0.815,0.72,0.62,0.0068,35.03,-243*,177.4,465,0.9,10.36,5.25,CO2,"
+",no
+Earth,1,"12,756",1,1,1,0.0167,29.79,1,23.45,-89 to 58,1,11.18,5.52,N2 + O2,"
+",no
+Mars,0.532,"6,787",0.107,1.52,1.88,0.0934,24.13,1.03,23.98,-82 to 0,0.38,5.02,3.93,CO2,"
+",no
+Jupiter,11.209,"142,800",318,5.20,11.86,0.0483,13.06,0.41,3.08,-150,2.64,59.54,1.33,H2+He,"
+",yes
+Saturn,9.44,"120,000",95,9.54,29.46,0.0560,9.64,0.44,26.73,-170,0.93,35.49,0.71,H2+He,"
+",yes
+Uranus,4.007,"51,118",15,19.18,84.01,0.0461,6.81,-0.72*,97.92,-200,0.89,21.29,1.24,H2+He,"
+",yes
+Neptune,3.883,"49,528",17,30.06,164.8,0.0097,5.43,0.72,28.8,-210,1.12,23.71,1.67,H2+He,"
+",yes
