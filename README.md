@@ -110,7 +110,9 @@ You have now installed and verified the required libraries to use the program on
   - Type 'python plottingAndAllTheFun.py'
   - Type 'python exoplanets_formula.py'
 4. When you are finished with either one, feel free to have a look at the other one.
-5. If you would like some more detailed information on this project and an idea of how to interpret the outputs better, please follow the link below to access our documentation for this project.
+5. If you would like some more detailed information on this project and an idea of how to interpret the outputs better, please look at the documentation included in the files.
+
+
 
 ## Here are some general infos regarding the planetary attributes that may be interesting when viewing the datasets
 
