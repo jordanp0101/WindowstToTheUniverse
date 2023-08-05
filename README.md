@@ -1,5 +1,5 @@
 # Windows to the universe 
-**by Jordan Peters, Leona Feierabend and Greta Niemeyer**
+**by Jordan Peters, Leona Feierabend and Greta Niemeyer (Group 12)**
 
  ## Installations on Mac
 
